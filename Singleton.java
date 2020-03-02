@@ -1,9 +1,8 @@
-
 public class Singleton {
 	
 	/*
-	 *	Ãi´²¼Ò¦¡¡Ainstance­Y¤w¸g³Qªì©l¤Æ¡A¨C¦¸©I¥sgetInstance¤èªk³£·|¶i¦æ¦P¨B
-	 * 	®ø¯Ó¤£¥²­n¸ê·½¡A¤£«ØÄ³¨Ï¥Î¦¹¤è¦¡
+	 *	æ‡¶æ•£æ¨¡å¼ï¼Œinstanceè‹¥å·²ç¶“è¢«åˆå§‹åŒ–ï¼Œæ¯æ¬¡å‘¼å«getInstanceæ–¹æ³•éƒ½æœƒé€²è¡ŒåŒæ­¥
+	 * 	æ¶ˆè€—ä¸å¿…è¦è³‡æºï¼Œä¸å»ºè­°ä½¿ç”¨æ­¤æ–¹å¼
 	 */
 	/*
 	private static Singleton instance;
@@ -21,7 +20,7 @@ public class Singleton {
 	*/
 	
 	/*
-	 * 	¨Ï¥ÎÀRºA¤º³¡Ãş§O¤èªk¹ê§@
+	 * 	ä½¿ç”¨éœæ…‹å…§éƒ¨é¡åˆ¥æ–¹æ³•å¯¦ä½œ
 	 */
 	private Singleton() {
 		
