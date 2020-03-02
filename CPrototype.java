@@ -55,7 +55,7 @@ public class CPrototype {
 		
 		Data d2 = (Data) d1.clone();
 		System.out.println(d2.toString());
-		//­×§ï¤£·|¼vÅT­ì«¬¸ê®Æ
+		//ä¿®æ”¹è³‡æ–™ä¸æœƒå¼•éŸ¿åŸå‹
 		d2.setmId(2);
 		d2.setmTag("alter Test_2");
 		System.out.println(d2.toString());
